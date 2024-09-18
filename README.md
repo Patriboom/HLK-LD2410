@@ -6,3 +6,5 @@ I'll maintain this repository, just submit your modifications to me or request p
 
 
 You make to read the origin of this work, a question on [Arduino Forum](https://forum.arduino.cc/t/arduino-uno-and-ld2410c-sensor/)
+
+Other Hi-Link product library: [HLK-LD8001B](https://github.com/Patriboom/HLK-LD8001B)
